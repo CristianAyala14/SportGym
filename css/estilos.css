@@ -608,6 +608,9 @@ align-items: center;
     background-color: rgb(58, 56, 58);
 }
 /* carrucel */
+.carousel{
+    z-index: 0;
+}
 .carrucel1{
 height: 40rem;
 }
