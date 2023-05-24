@@ -738,7 +738,7 @@ opacity: 0.6;
 }
 @media screen and (max-width:600px){
     .maininformacion h1{
-        font-size: 3.9rem;
+        font-size: 3rem;
         
     }
 }
